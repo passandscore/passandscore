@@ -22,5 +22,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "main"
+          ref: "main"
