@@ -24,3 +24,9 @@ Other        31 mins         -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
+
+<hr/>
+
+##### Additional Contributions
+
+[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
