@@ -9,7 +9,7 @@ I am a full-stack software engineer specializing in Solidity smart contracts. I 
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 27 May 2023
+From: 26 February 2023 - To: 28 May 2023
 
 Total Time: 440 hrs 39 mins
 
