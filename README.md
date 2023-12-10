@@ -24,6 +24,14 @@ Bash         1 hr 25 mins    -------------------------   01.05 %
 
 <hr/>
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more posts...](https://www.jasonschwarz.xyz/articles)
+
+<hr/>
+
 ##### Additional Contributions
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
