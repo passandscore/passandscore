@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.jasonschwarz.xyz/rss.xml"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
