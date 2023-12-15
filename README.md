@@ -25,6 +25,7 @@ Bash         1 hr 25 mins    -------------------------   01.05 %
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to sign and verify messages with Ethers](https://jasonschwarz.xyz/articles/message-signing-with-ethers)
 - [How to setup Uniswap V4 Hooks on a FairTrade Contract](https://jasonschwarz.xyz/articles/setup-uniswap-v4-hooks-fairtrade-contract)
 <!-- BLOG-POST-LIST:END -->
 
