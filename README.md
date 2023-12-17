@@ -8,15 +8,15 @@ I am a full-stack software engineer specializing in Solidity smart contracts. I 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 09 December 2023
+From: 16 November 2023 - To: 16 December 2023
 
-Total Time: 136 hrs 23 mins
+Total Time: 161 hrs 15 mins
 
-TypeScript   81 hrs 28 mins  >>>>>>>>>>>>>>>----------   59.74 %
-Solidity     43 hrs 15 mins  >>>>>>>>-----------------   31.71 %
-JSON         3 hrs 42 mins   >------------------------   02.72 %
-YAML         2 hrs           -------------------------   01.47 %
-Bash         1 hr 25 mins    -------------------------   01.05 %
+TypeScript   99 hrs 46 mins  >>>>>>>>>>>>>>>----------   61.87 %
+Solidity     34 hrs 49 mins  >>>>>--------------------   21.60 %
+JSON         8 hrs 21 mins   >------------------------   05.18 %
+JavaScript   5 hrs 29 mins   >------------------------   03.41 %
+YAML         3 hrs 4 mins    -------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
