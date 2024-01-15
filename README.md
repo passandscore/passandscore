@@ -25,6 +25,7 @@ JSON         4 hrs 40 mins   >------------------------   02.96 %
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing NFT Drops: Protecting Allowlists with Merkle Trees](https://jasonschwarz.xyz/articles/securing-nft-drops-protecting-allowlists-with-merkle-trees)
 - [How to sign and verify messages with Ethers](https://jasonschwarz.xyz/articles/message-signing-with-ethers)
 - [How to setup Uniswap V4 Hooks on a FairTrade Contract](https://jasonschwarz.xyz/articles/setup-uniswap-v4-hooks-fairtrade-contract)
 <!-- BLOG-POST-LIST:END -->
