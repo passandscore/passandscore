@@ -25,6 +25,7 @@ Bash          46 mins         -------------------------   01.84 %
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Gas Savings: Exploring the Swap and Pop Array Approach](https://jasonschwarz.xyz/articles/solidity-gas-savings-exploring-the-swap-and-pop-array-approach)
 - [Securing NFT Drops: Protecting Allowlists with Merkle Trees](https://jasonschwarz.xyz/articles/securing-nft-drops-protecting-allowlists-with-merkle-trees)
 - [How to sign and verify messages with Ethers](https://jasonschwarz.xyz/articles/message-signing-with-ethers)
 - [How to setup Uniswap V4 Hooks on a FairTrade Contract](https://jasonschwarz.xyz/articles/setup-uniswap-v4-hooks-fairtrade-contract)
