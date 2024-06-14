@@ -11,8 +11,6 @@ I am a full-stack software engineer specializing in Solidity smart contracts. I 
 ```txt
 From: 15 May 2024 - To: 14 June 2024
 
-Total Time: 85 hrs 53 mins
-
 TypeScript                   >>>>>>>>>>>>>>-----------   57.89 %
 Solidity                     >>>>>>-------------------   25.59 %
 Markdown                     >>-----------------------   09.72 %
