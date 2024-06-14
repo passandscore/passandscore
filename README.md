@@ -4,7 +4,7 @@
 
 ### Welcome to my workshop &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=passandscore.passandscore)
 
-I am a full-stack software engineer specializing in Solidity smart contracts. I love programming, teaching, speaking and traveling. As a software engineer, I enjoy using my obsessive attention to detail to create projects that bring true value to those that use them.
+Web3 full-stack software engineer specializing in Solidity development & security. 
 
 <!--START_SECTION:waka-->
 
@@ -34,6 +34,6 @@ Bash                         -------------------------   01.74 %
 
 <hr/>
 
-##### Additional Contributions
+##### 👇 Additional Contributions
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
