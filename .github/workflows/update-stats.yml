@@ -18,7 +18,7 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: last_30_days
           SHOW_TIME: false
-          SHOW_MASKED_TIME: true
+          SHOW_MASKED_TIME: false
           LANG_COUNT: 5
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       
