@@ -20,6 +20,7 @@ jobs:
           SHOW_TIME: false
           SHOW_MASKED_TIME: false
           LANG_COUNT: 5
+          SHOW_COMMIT: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       
 
