@@ -24,6 +24,7 @@ Bash                         -------------------------   01.74 %
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds](https://jasonschwarz.xyz/articles/managing-whitelist-overload-ensuring-effective-token-mints-with-proof-of-funds)
 - [Solidity Gas Savings: Exploring the Swap and Pop Array Approach](https://jasonschwarz.xyz/articles/solidity-gas-savings-exploring-the-swap-and-pop-array-approach)
 - [Securing NFT Drops: Protecting Allowlists with Merkle Trees](https://jasonschwarz.xyz/articles/securing-nft-drops-protecting-allowlists-with-merkle-trees)
 - [How to sign and verify messages with Ethers](https://jasonschwarz.xyz/articles/message-signing-with-ethers)
