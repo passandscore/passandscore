@@ -44,6 +44,8 @@ Bash                          -------------------------   01.33 %
 
 ➡️ [more tools...](https://www.jasonschwarz.xyz/tools)
 
+<hr/>
+
 ##### 👇 Additional Contributions
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
