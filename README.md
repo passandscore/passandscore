@@ -35,6 +35,15 @@ Bash                          -------------------------   01.33 %
 
 <hr/>
 
+### 📕 Latest Web3 Tool
+- [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
+- [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
+- [Epoch Converter](https://epoch-converter.jasonschwarz.xyz/)
+- [Ether Converter](https://eth-converter.jasonschwarz.xyz/)
+- [Merkle Root Generator](https://merkle-root-generator.jasonschwarz.xyz/)
+
+➡️ [more tools...](https://www.jasonschwarz.xyz/tools)
+
 ##### 👇 Additional Contributions
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
