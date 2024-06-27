@@ -35,7 +35,7 @@ Bash                          -------------------------   01.33 %
 
 <hr/>
 
-### 📕 Latest Web3 Tool
+### 🧰  Latest Web3 Tool
 - [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
 - [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
 - [Epoch Converter](https://epoch-converter.jasonschwarz.xyz/)
