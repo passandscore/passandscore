@@ -1,5 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-schwarz-75b91482/)
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fpassandscore&label=Follow)](https://twitter.com/passandscore)
+[![Medium Badge](https://img.shields.io/badge/Follow-Medium-white?logo=medium)](https://medium.com/@jason.c.schwarz)
+
 
 
 ### Welcome to my workshop &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=passandscore.passandscore)
