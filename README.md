@@ -38,6 +38,7 @@ JSON                          >------------------------   05.91 %
 <hr/>
 
 ### 🧰  Latest Web3 Tools
+- [Uint Casting](https://uint-casting.jasonschwarz.xyz/)
 - [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
 - [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
 - [Epoch Converter](https://epoch-converter.jasonschwarz.xyz/)
