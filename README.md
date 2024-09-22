@@ -11,13 +11,13 @@ Web3 full-stack software engineer specializing in Solidity development & securit
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2024 - To: 14 September 2024
+From: 22 August 2024 - To: 21 September 2024
 
-TypeScript                    >>>>>>>>>>>--------------   43.94 %
-Solidity                      >>>>>>>>-----------------   33.34 %
-JSON                          >>-----------------------   07.24 %
-Markdown                      >>-----------------------   06.69 %
-JavaScript                    >------------------------   03.27 %
+Solidity                      >>>>>>>>>>>>-------------   49.68 %
+TypeScript                    >>>>>>>>-----------------   31.79 %
+JSON                          >------------------------   05.95 %
+JavaScript                    >------------------------   03.64 %
+Markdown                      >------------------------   03.41 %
 ```
 
 <!--END_SECTION:waka-->
