@@ -42,7 +42,7 @@ CSV                          -------------------------   00.82 %
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][https://www.youtube.com/@passandscore_]
+➡️ [more videos...](https://www.youtube.com/@passandscore_)
 
 <hr/>
 
