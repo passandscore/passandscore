@@ -37,6 +37,15 @@ CSV                          -------------------------   00.82 %
 
 <hr/>
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][https://www.youtube.com/@passandscore_]
+
+<hr/>
+
 ### 🧰  Latest Web3 Tools
 - [Uint Casting](https://uint-casting.jasonschwarz.xyz/)
 - [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
