@@ -40,6 +40,8 @@ CSV                          -------------------------   00.82 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I Track 7.6M+ Smart Contract Transactions Across 7 Chains | Web3 Portfolio Feature](https://www.youtube.com/watch?v=rkFFE1ClHc4)
+- [Adding an AI Assistant to My Portfolio | Custom Copilot Kit Integration Showcase](https://www.youtube.com/watch?v=vf5ytmPTg5Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
