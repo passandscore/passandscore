@@ -40,11 +40,11 @@ Bash                         -------------------------   00.98 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[6] Breaking Smart Contracts: ERC20 VAULT Exploit Challenge](https://www.youtube.com/watch?v=Bzv7oKU5CVc)
 - [[5] Breaking Smart Contracts: SHERWOOD BANK Exploit Challenge](https://www.youtube.com/watch?v=1Pv7b5H6AOc)
 - [[4] Breaking Smart Contracts: STEAL Exploit Challenge](https://www.youtube.com/watch?v=6U6jnQHGIwk)
 - [[3] Breaking Smart Contracts: AUCTION Exploit Challenge](https://www.youtube.com/watch?v=wRZY2ZjXlNU)
 - [[2] Breaking Smart Contracts: GRIDLOCK Exploit Challenge](https://www.youtube.com/watch?v=HtS702YCNM4)
-- [[1] Breaking Smart Contracts: ETHERSTORE Exploit Challenge](https://www.youtube.com/watch?v=SPDzH3kLHtA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
