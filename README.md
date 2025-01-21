@@ -40,11 +40,11 @@ Bash                         -------------------------   01.04 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[9] Breaking Smart Contracts: MIMIC Exploit Challenge](https://www.youtube.com/watch?v=MVM6aq9n70c)
 - [[8] Breaking Smart Contracts: LUCKY SPIN Exploit Challenge](https://www.youtube.com/watch?v=FAdibUfaWCo)
 - [[7] Breaking Smart Contracts: FALSE START Exploit Challenge](https://www.youtube.com/watch?v=FwHZ6rPH74o)
 - [[6] Breaking Smart Contracts: ERC20 VAULT Exploit Challenge](https://www.youtube.com/watch?v=Bzv7oKU5CVc)
 - [[5] Breaking Smart Contracts: SHERWOOD BANK Exploit Challenge](https://www.youtube.com/watch?v=1Pv7b5H6AOc)
-- [[4] Breaking Smart Contracts: STEAL Exploit Challenge](https://www.youtube.com/watch?v=6U6jnQHGIwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
