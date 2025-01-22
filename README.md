@@ -40,11 +40,11 @@ Bash                         -------------------------   01.04 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Automate Your GitHub Profile with Latest YouTube Videos | GitHub Actions Tutorial](https://www.youtube.com/watch?v=cNLGf4y3TbU)
 - [[10] Breaking Smart Contracts: COMBINATION LOCK Exploit Challenge](https://www.youtube.com/watch?v=30HtJgpZm_g)
 - [[9] Breaking Smart Contracts: MIMIC Exploit Challenge](https://www.youtube.com/watch?v=MVM6aq9n70c)
 - [[8] Breaking Smart Contracts: LUCKY SPIN Exploit Challenge](https://www.youtube.com/watch?v=FAdibUfaWCo)
 - [[7] Breaking Smart Contracts: FALSE START Exploit Challenge](https://www.youtube.com/watch?v=FwHZ6rPH74o)
-- [[6] Breaking Smart Contracts: ERC20 VAULT Exploit Challenge](https://www.youtube.com/watch?v=Bzv7oKU5CVc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
