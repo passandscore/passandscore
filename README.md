@@ -40,11 +40,11 @@ Bash                         -------------------------   01.04 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🐱 60 Seconds: Epic Cat &amp;amp; Dog Moments! 🐶](https://www.youtube.com/watch?v=gZSXFW2Md2Y)
+- [🐄🦊🦌 Animals vs Fence: Nature&amp;apos;s Obstacle Course! 🚧](https://www.youtube.com/watch?v=9c1cHV_FWqk)
+- [[11] Breaking Smart Contracts: SIDELINE Exploit Challenge](https://www.youtube.com/watch?v=kvdi3iSHUyk)
 - [Automate Your GitHub Profile with Latest YouTube Videos | GitHub Actions Tutorial](https://www.youtube.com/watch?v=cNLGf4y3TbU)
 - [[10] Breaking Smart Contracts: COMBINATION LOCK Exploit Challenge](https://www.youtube.com/watch?v=30HtJgpZm_g)
-- [[9] Breaking Smart Contracts: MIMIC Exploit Challenge](https://www.youtube.com/watch?v=MVM6aq9n70c)
-- [[8] Breaking Smart Contracts: LUCKY SPIN Exploit Challenge](https://www.youtube.com/watch?v=FAdibUfaWCo)
-- [[7] Breaking Smart Contracts: FALSE START Exploit Challenge](https://www.youtube.com/watch?v=FwHZ6rPH74o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
