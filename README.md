@@ -40,11 +40,11 @@ Markdown                     >------------------------   03.26 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[16] Breaking Smart Contracts: WEIGHTED VOTING Exploit Challenge](https://www.youtube.com/watch?v=nnPxToZVpo0)
 - [[15] Breaking Smart Contracts: SUCCESSION Exploit Challenge](https://www.youtube.com/watch?v=qjrJQjI0yo8)
 - [[14] Breaking Smart Contracts: ERC20 AIRDROP Exploit Challenge](https://www.youtube.com/watch?v=T_RGoqM70go)
 - [[13] Breaking Smart Contracts: INSTIGATOR Exploit Challenge](https://www.youtube.com/watch?v=0aemCb2h9D8)
 - [[12] Breaking Smart Contracts: PRIVATE TREASURE Exploit Challenge](https://www.youtube.com/watch?v=GcOjaT_7rnw)
-- [[11] Breaking Smart Contracts: SIDELINE Exploit Challenge](https://www.youtube.com/watch?v=kvdi3iSHUyk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
