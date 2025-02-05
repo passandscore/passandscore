@@ -40,11 +40,11 @@ Markdown                     >------------------------   03.13 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Easiest NFT Allowlist Tool Ever](https://www.youtube.com/watch?v=P_r-N40M9zY)
 - [[16] Breaking Smart Contracts: WEIGHTED VOTING Exploit Challenge](https://www.youtube.com/watch?v=nnPxToZVpo0)
 - [[15] Breaking Smart Contracts: SUCCESSION Exploit Challenge](https://www.youtube.com/watch?v=qjrJQjI0yo8)
 - [[14] Breaking Smart Contracts: ERC20 AIRDROP Exploit Challenge](https://www.youtube.com/watch?v=T_RGoqM70go)
 - [[13] Breaking Smart Contracts: INSTIGATOR Exploit Challenge](https://www.youtube.com/watch?v=0aemCb2h9D8)
-- [[12] Breaking Smart Contracts: PRIVATE TREASURE Exploit Challenge](https://www.youtube.com/watch?v=GcOjaT_7rnw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
