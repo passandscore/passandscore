@@ -40,11 +40,11 @@ JSON                         >------------------------   03.54 %
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Cancel Stuck Pending Transactions | Quick Dev Tutorial](https://www.youtube.com/watch?v=176n23kLHyY)
 - [The Easiest NFT Allowlist Tool Ever](https://www.youtube.com/watch?v=P_r-N40M9zY)
 - [[16] Breaking Smart Contracts: WEIGHTED VOTING Exploit Challenge](https://www.youtube.com/watch?v=nnPxToZVpo0)
 - [[15] Breaking Smart Contracts: SUCCESSION Exploit Challenge](https://www.youtube.com/watch?v=qjrJQjI0yo8)
 - [[14] Breaking Smart Contracts: ERC20 AIRDROP Exploit Challenge](https://www.youtube.com/watch?v=T_RGoqM70go)
-- [[13] Breaking Smart Contracts: INSTIGATOR Exploit Challenge](https://www.youtube.com/watch?v=0aemCb2h9D8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@passandscore_)
