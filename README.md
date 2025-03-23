@@ -11,13 +11,13 @@ Web3 full-stack software engineer specializing in Solidity development & securit
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 15 March 2025
+From: 20 February 2025 - To: 22 March 2025
 
-Solidity                     >>>>>>>>>>---------------   41.42 %
-TypeScript                   >>>>>>>>-----------------   32.92 %
-HTML                         >>>----------------------   11.38 %
-JSON                         >------------------------   05.77 %
-Markdown                     >------------------------   03.32 %
+Solidity                     >>>>>>>>>>---------------   40.72 %
+TypeScript                   >>>>>>>>-----------------   33.59 %
+Markdown                     >>-----------------------   07.49 %
+JSON                         >>-----------------------   07.26 %
+HTML                         >------------------------   04.83 %
 ```
 
 <!--END_SECTION:waka-->
