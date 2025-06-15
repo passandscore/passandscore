@@ -26,11 +26,11 @@ JSON                          >------------------------   05.56 %
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Storage Slots — A Core Concept](https://jasonschwarz.xyz/articles/solidity-storage-slots)
 - [Exploiting Smart Contracts: Strict Equality](https://jasonschwarz.xyz/articles/exploiting-smart-contracts-strict-equality)
 - [Understanding Flash Loans in DeFi](https://jasonschwarz.xyz/articles/understanding-flash-loans-in-defi)
 - [Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds](https://jasonschwarz.xyz/articles/managing-whitelist-overload-ensuring-effective-token-mints-with-proof-of-funds)
 - [Solidity Gas Savings: Exploring the Swap and Pop Array Approach](https://jasonschwarz.xyz/articles/solidity-gas-savings-exploring-the-swap-and-pop-array-approach)
-- [Securing NFT Drops: Protecting Allowlists with Merkle Trees](https://jasonschwarz.xyz/articles/securing-nft-drops-protecting-allowlists-with-merkle-trees)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://www.jasonschwarz.xyz/articles)
