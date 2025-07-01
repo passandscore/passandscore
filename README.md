@@ -52,6 +52,7 @@ Markdown                      >------------------------   04.12 %
 <hr/>
 
 ### 🧰  Latest Web3 Tools
+- [Pending Transactions](https://pending-transactions.jasonschwarz.xyz/)
 - [Uint Casting](https://uint-casting.jasonschwarz.xyz/)
 - [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
 - [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
