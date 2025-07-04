@@ -53,7 +53,7 @@ Markdown                      >------------------------   04.12 %
 
 ### 🧰  Latest Web3 Tools
 - [Pending Transactions](https://pending-transactions.jasonschwarz.xyz/)
-- [Uint Casting](https://uint-casting.jasonschwarz.xyz/)
+- [Function Selector Decoder](https://selectors.jasonschwarz.xyz/)
 - [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
 - [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
 - [Epoch Converter](https://epoch-converter.jasonschwarz.xyz/)
