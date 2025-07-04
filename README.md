@@ -4,7 +4,7 @@
 
 
 
-### Welcome to my workshop &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=passandscore.passandscore)
+### Welcome to my workshop
 
 Web3 full-stack software engineer specializing in Solidity development & security. 
 
