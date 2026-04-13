@@ -1,69 +1,20 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-schwarz-75b91482/)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fpassandscore&label=Follow)](https://twitter.com/passandscore)
-[![Medium Badge](https://img.shields.io/badge/Follow-Medium-white?logo=medium)](https://medium.com/@jason.c.schwarz)
+<img src="./assets/Github-Banner.png" alt="Jason Schwarz — Engineering Leader & Blockchain Strategist" width="100%" />
 
+How do you take your coffee? Mine's black, no sugar. I've had a lot of it. Mostly while building things that probably shouldn't have worked but somehow did.
 
+My first build wasn't a smart contract. It was a company. I was running a mechanical company, realized the industry had no decent tools, and built **Elements Software** from scratch. Province-wide adoption, regulatory approval, then COVID shut it all down. That taught me more than any job ever could.
 
-### Welcome to my workshop
+At **LiveArt** I led smart contract architecture for 770K+ users and created the ART token. At **Primev** I built **Fast Protocol** from the ground up. But the work I'm most proud of is the developers I've mentored for 5+ years and **DefiKids**, a project I built so my friends' children could learn about crypto.
 
-Web3 full-stack software engineer specializing in Solidity development & security. 
+> “If everyone is moving forward together, then success takes care of itself.”  — Henry Ford
 
-<!--START_SECTION:waka-->
+If any of that resonated, I'd love to grab a coffee and hear what you're working on. Virtual or in person, I'm always up for a good conversation. 
 
-```txt
-From: 12 March 2026 - To: 11 April 2026
+[jasonschwarz.xyz](https://jasonschwarz.xyz) 
 
-Other                               >>>>>>>>>>>>>>>>>--------   68.69 %
-HTML                                >>-----------------------   09.19 %
-Python                              >>-----------------------   08.63 %
-TypeScript                          >>-----------------------   07.33 %
-Swift                               -------------------------   01.32 %
-```
+---
 
-<!--END_SECTION:waka-->
-
-<hr/>
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Solidity Storage Slots — A Core Concept](https://jasonschwarz.xyz/articles/solidity-storage-slots)
-- [Exploiting Smart Contracts: Strict Equality](https://jasonschwarz.xyz/articles/exploiting-smart-contracts-strict-equality)
-- [Understanding Flash Loans in DeFi](https://jasonschwarz.xyz/articles/understanding-flash-loans-in-defi)
-- [Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds](https://jasonschwarz.xyz/articles/managing-whitelist-overload-ensuring-effective-token-mints-with-proof-of-funds)
-- [Solidity Gas Savings: Exploring the Swap and Pop Array Approach](https://jasonschwarz.xyz/articles/solidity-gas-savings-exploring-the-swap-and-pop-array-approach)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more posts...](https://www.jasonschwarz.xyz/articles)
-
-<hr/>
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Deployment Error - Invalid opcode push0](https://www.youtube.com/watch?v=hpL2nJQEdFA)
-- [How to Cancel Stuck Pending Transactions | Quick Dev Tutorial](https://www.youtube.com/watch?v=176n23kLHyY)
-- [The Easiest NFT Allowlist Tool Ever](https://www.youtube.com/watch?v=P_r-N40M9zY)
-- [[16] Breaking Smart Contracts: WEIGHTED VOTING Exploit Challenge](https://www.youtube.com/watch?v=nnPxToZVpo0)
-- [[15] Breaking Smart Contracts: SUCCESSION Exploit Challenge](https://www.youtube.com/watch?v=qjrJQjI0yo8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/@passandscore_)
-
-<hr/>
-
-### 🧰  Latest Web3 Tools
-- [Pending Transactions](https://pending-transactions.jasonschwarz.xyz/)
-- [Function Selector Decoder](https://selectors.jasonschwarz.xyz/)
-- [Base64 Encoder/Decoder](https://base64.jasonschwarz.xyz/)
-- [Digital Signatures](https://digital-signatures.jasonschwarz.xyz/)
-- [Epoch Converter](https://epoch-converter.jasonschwarz.xyz/)
-- [Ether Converter](https://eth-converter.jasonschwarz.xyz/)
-- [Merkle Root Generator](https://merkle-root-generator.jasonschwarz.xyz/)
-
-➡️ [more tools...](https://www.jasonschwarz.xyz/tools)
-
-<hr/>
-
-##### 👇 Additional Contributions
-
-[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)](https://gitlab.com/jason_schwarz)
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=passandscore&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=aaa&icon_color=fff&count_private=true" height="165" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=passandscore&theme=transparent&hide_border=true&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=aaa&sideNums=fff&currStreakNum=fff&dates=555" height="165" />
+</p>
