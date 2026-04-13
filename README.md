@@ -15,6 +15,6 @@ If any of that resonated, I'd love to grab a coffee and hear what you're working
 ---
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=passandscore&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=aaa&icon_color=fff&count_private=true" height="165" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=passandscore&theme=transparent&hide_border=true&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=aaa&sideNums=fff&currStreakNum=fff&dates=555" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=passandscore&show_icons=true&theme=transparent&hide_border=true&title_color=4A90D9&text_color=aaa&icon_color=4A90D9&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=passandscore&theme=transparent&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=fff&sideLabels=aaa&sideNums=fff&currStreakNum=fff&dates=555" height="165" />
 </p>
