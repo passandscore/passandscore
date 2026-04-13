@@ -6,7 +6,7 @@ My first build wasn't a smart contract. It was a company. I was running a mechan
 
 At **LiveArt** I led smart contract architecture for 770K+ users and created the ART token. At **Primev** I built **Fast Protocol** from the ground up. But the work I'm most proud of is the developers I've mentored for 5+ years and **DefiKids**, a project I built so my friends' children could learn about crypto.
 
-> “If everyone is moving forward together, then success takes care of itself.”  — Henry Ford
+> If everyone is moving forward together, then success takes care of itself.  — Henry Ford
 
 If any of that resonated, I'd love to grab a coffee and hear what you're working on. Virtual or in person, I'm always up for a good conversation. 
 
