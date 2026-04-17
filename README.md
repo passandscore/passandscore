@@ -17,9 +17,3 @@ If any of that resonated, I'd love to grab a coffee and hear what you're working
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=passandscore&theme=transparent&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=fff&sideLabels=aaa&sideNums=fff&currStreakNum=fff&dates=555" height="165" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/passandscore/passandscore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/passandscore/passandscore/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/passandscore/passandscore/output/github-snake-dark.svg" />
-</picture>
