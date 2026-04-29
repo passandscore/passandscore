@@ -1,4 +1,4 @@
-<!-- <img src="./assets/Github-Banner.png" alt="Jason Schwarz — Engineering Leader & Blockchain Strategist" width="100%" /> -->
+<img src="./assets/Substack-Banner-Eng-AI.png" alt="Jason Schwarz — Engineering Leader & Blockchain Strategist" width="100%" />
 
 How do you take your coffee? Mine's black, no sugar. I've had a lot of it. Mostly while building things that probably shouldn't have worked but somehow did.
 
